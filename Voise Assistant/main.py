@@ -4,7 +4,7 @@ import datetime as dt
 import pyjokes as pj
 import pyttsx3
 import os
-
+import time
 ##-------------------------------------
 ## initializing voice engine 
 engine = pyttsx3.init()
@@ -51,7 +51,7 @@ if __name__ == '__main__':
     print(greeting)
 
     txt_to_speech(greeting)
-    dt.sleep(2)
+    time.sleep(2)
     command = ''
 
     while True:
