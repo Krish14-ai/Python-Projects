@@ -1,0 +1,5 @@
+pyaudio
+pyjokes
+datetime
+speech_recognition
+webbrowser
