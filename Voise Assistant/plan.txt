@@ -1,0 +1,13 @@
+step 1) choosing the model for converting text to speech.
+        ex: pyjokes, etc..
+step 2) importing other modules like date time, web browser
+
+step 3) definig function as per the needs
+
+step 4)find errors and make test runs 
+
+Step 5) Making sure that everything works
+
+Step 6) Make an app
+
+Step 7) Deploy it

@@ -16,6 +16,7 @@ cursor.execute('''
 
 #========================================
 # Helper functions 
+#========================================
 
 def list_all_vids():
     cursor.execute("SELECT * FROM videos")
